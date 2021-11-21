@@ -17,21 +17,20 @@ Created with Velo
 
 7. Type git clone, and then paste the URL you copied earlier.
 
-8. $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
-9. Press Enter to create your local clone.
+8. Press Enter to create your local clone.
 
-10. Run Velo CLI command to setup your environment npx velo init 
+9. Run Velo CLI command to setup your environment npx velo init 
 
-11. This command will set up your development environment to start working with Velo code.
+This command will set up your development environment to start working with Velo code.
 
-12. Run Velo CLI command npx velo pull-page-elements --watch to continuously fetch design changes made by the designer in real time
+10. Run Velo CLI command npx velo pull-page-elements --watch to continuously fetch design changes made by the designer in real time
 
-13. You can now edit you code
+11. You can now edit you code
 
-14. To preview you local changes use the Velo CLI command npx velo open-preview
+12. To preview you local changes use the Velo CLI command npx velo open-preview
 
-15. This command will open a browser tab of the editor preview mode running your local code changes and the current UI version. 
+This command will open a browser tab of the editor preview mode running your local code changes and the current UI version. 
 
-16. If you add more code changes you can refresh the preview tab in order to run your latest code changes.
-
+13. If you add more code changes you can refresh the preview tab in order to run your latest code changes.
