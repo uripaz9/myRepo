@@ -22,3 +22,5 @@ Created with Velo
 9. To preview you local changes use the Velo CLI command <code>npx velo open-preview</code>. This command will open a browser tab of the editor preview mode running your local code changes and the current UI version. 
 
 10. If you add more code changes you can refresh the preview tab in order to run your latest code changes.
+
+11. You can refresh once your code is ready use commit and push to stream your local changes and make them available to your team members
