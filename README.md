@@ -15,7 +15,7 @@ Created with Velo
 
 6. Run Velo CLI command to setup your environment <code>npx velo init</code>. This command will set up your development environment to start working with Velo code.
 
-7. Run Velo CLI command npx velo <code>pull-page-elements --watch</code> to continuously fetch design changes made by the designer in real time
+7. Run Velo CLI command npx velo <code>pull-ui-changes --watch</code> to continuously fetch design changes made by the designer in real time to you local environment
 
 8. You can now edit you code
 
