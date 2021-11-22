@@ -23,4 +23,4 @@ Created with Velo
 
 10. If you add more code changes you can refresh the preview tab in order to run your latest code changes.
 
-11. You can refresh once your code is ready use commit and push to stream your local changes and make them available to your team members
+11. Once your code is ready use <code>commit</code> and <code>push</code> git commands to stream your local changes back to the editor to make them available to your team members
